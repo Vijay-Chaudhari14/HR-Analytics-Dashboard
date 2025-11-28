@@ -4,21 +4,6 @@ A comprehensive **HR Analytics Dashboard** built with **Power BI** to help organ
 
 ---
 
-## Table of contents
-- [Project overview](#project-overview)  
-- [Dashboard preview](#dashboard-preview)  
-- [Repository structure](#repository-structure)  
-- [Tech used](#tech-used)  
-- [Key metrics (from design preview)](#key-metrics-from-design-preview)  
-- [Dataset schema (recommended)](#dataset-schema-recommended)  
-- [How to run / open (Power BI)](#how-to-run--open-power-bi)  
-- [Design notes & DAX examples](#design-notes--dax-examples)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact / Maintainer](#contact--maintainer)
-
----
-
 ## Project overview
 This project contains everything needed to reproduce a modern HR Analytics dashboard in Power BI. The dashboard focuses on core HR KPIs and exploratory visuals for attrition analysis, age and gender breakdowns, job satisfaction by role, and education-field performance.
 
