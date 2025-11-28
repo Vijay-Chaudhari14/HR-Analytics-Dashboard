@@ -34,5 +34,5 @@ The purpose of this repository is to provide a complete, Power BI–based HR Ana
 ---
 
 ## Feel free to explore the 'pbix' file and adapt it to your own HR Dataset
-Get Ineractive Report :
+Get Ineractive Report :https://app.powerbi.com/view?r=eyJrIjoiMDdiNTEzNTMtZDQ3Yi00ZmI4LWJkNzgtYmQ5NjAzOTQ5MmU3IiwidCI6ImFlZDY4NmFiLWFjM2QtNDFjZC1hMWI5LTc0N2NiYjc0OWU2ZSJ9
 
